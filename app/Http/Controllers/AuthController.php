@@ -18,7 +18,7 @@ class AuthController extends Controller
             return redirect('/admin')->with('success', 'Berhasil Login.');;
         }
 
-        return back()->with(['pesan' => 'Username atau password salah']);
+        return back()->with(['pesan' => 'Email atau password salah']);
         
     }
 

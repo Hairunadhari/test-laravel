@@ -74,9 +74,7 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="simple-footer">
-                            Copyright &copy; WIN
-                        </div>
+                       
                     </div>
                 </div>
             </div>
